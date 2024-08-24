@@ -30,5 +30,5 @@ A demo project showcasing role-based access control using CASL.js in a Next.js a
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bhargav-virani-3805781a2/)
-- Email: [your.email@example.com](mailto:bmvirani123@gmail.com)
+- LinkedIn: [Bhargav Virani](https://www.linkedin.com/in/bhargav-virani-3805781a2/)
+- Email: [bmvirani123@gmail.com](mailto:bmvirani123@gmail.com)

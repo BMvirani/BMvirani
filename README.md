@@ -24,15 +24,12 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with exper
 ## 🚀 Projects
 
 ### [Google Keep Clone](https://github.com/BMvirani/google-keep-clone)
-![Google Keep Clone GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 A full-featured clone of Google Keep built with the MERN stack. Features include note-taking, editing, archiving, pinning, and more.
 
 ### [FlickFix](https://github.com/BMvirani/FlickFix)
-![Movie GIF](https://media.giphy.com/media/l41lZxzroU33typuU/giphy.gif)
 A movie recommendation app that suggests movies based on user preferences. Built with React.js and integrates with a third-party movie API.
 
 ### [CASL Demo](https://github.com/BMvirani/casl-demo)
-![Access Control GIF](https://media.giphy.com/media/26AHJG5KGFxSkZ1nK/giphy.gif)
 A demo project showcasing role-based access control using CASL.js in a Next.js application.
 
 ## ✨ Highlights
@@ -46,5 +43,3 @@ A demo project showcasing role-based access control using CASL.js in a Next.js a
 
 - LinkedIn: [Bhargav Virani](https://www.linkedin.com/in/bhargav-virani-3805781a2/)
 - Email: [bmvirani123@gmail.com](mailto:bmvirani123@gmail.com)
-
-![Thanks GIF](https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif)

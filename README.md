@@ -24,6 +24,10 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with exper
 </p>
 ## 🚀 Projects
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BMvirani&theme=radical" alt="Bhargav's GitHub Streak Stats" />
+</p>
+
 ### [Google Keep Clone](https://github.com/BMvirani/google-keep-clone)
 A full-featured clone of Google Keep built with the MERN stack. Features include note-taking, editing, archiving, pinning, and more.
 

@@ -1,6 +1,5 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bhargav Virani 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=BMvirani&color=blue)
 
 Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with experience in building web applications using modern technologies like **React.js**, **Next.js**, and **Express.js**. I love exploring new technologies and continuously improving my skills.
 
@@ -27,21 +26,9 @@ A demo project showcasing role-based access control using CASL.js in a Next.js a
 - 💻 **1 Year of Experience**: Proficient in React.js and passionate about frontend development.
 - 🌱 **Currently Learning**: Advanced Node.js, Backend Development with Express.js.
 - 💬 **Ask me about**: React.js, Next.js, CSS, and Frontend Best Practices.
-- 💡 **Interests**: Open Source, MERN Stack, UX/UI Design.
+- 💡 **Interests**:  MERN Stack.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Portfolio: [Your Portfolio](https://your-portfolio.com)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-
-## 🏆 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BMvirani&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMvirani&layout=compact&theme=radical)
-
-## 🌟 Contributions
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BMvirani&theme=radical)](https://git.io/streak-stats)
-
-Thanks for stopping by! Let's connect and build something amazing together 🚀
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/bhargav-virani-3805781a2/)
+- Email: [your.email@example.com](mailto:bmvirani123@gmail.com)
